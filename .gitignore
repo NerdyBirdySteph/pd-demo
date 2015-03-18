@@ -11,6 +11,5 @@ coverage/**
 components/**/*.css
 web-components.iml
 .idea/
-bundles/**
 npm-debug.log
 **/styleguide/config
